@@ -1,4 +1,3 @@
-🔗 View Full Notebook Output (Charts & Insights):
 https://nbviewer.org/github/Hema0440/student-performance-business-analytics/blob/main/notebooks/student_performance_analysis.ipynb
 # Student Performance Business Analytics
 
